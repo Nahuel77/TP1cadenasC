@@ -3,14 +3,12 @@
 #include "carga.h"
 #include "muestra.h"
 
-#define N 5
-
 void carga(char lista[][100]);
 void muestra(char lista[][100]);
 
 int main()
 {
-    char usuarios[N][100];
+    char usuarios[0][100];
     int op;
 
     do
