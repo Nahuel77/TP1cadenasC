@@ -6,3 +6,10 @@ La empresa "TAN" requiere una aplicacion en C para cargar sus usuarios, la misma
 -Verificar que el empleado no se encuentre previamente cargado (Deberá verificar teniendo en consideración Mayusculas y Minusculas).
 -Cargar nombres hasta que el usuario ingrese cualquier variación con mayusculas y minusculas de la palabra "salir".
 -Deberá mostrar la lista completa de los empleados cargados.
+
+Algunos links de utilidad:
+Documentación del metodo strlen():
+https://www.ibm.com/docs/es/i/7.5?topic=functions-tolower-toupper-convert-character-case
+
+Documentación del metodo strcmp():
+https://www.ibm.com/docs/es/i/7.5?topic=functions-strcmp-compare-strings
