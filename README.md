@@ -1,4 +1,4 @@
-# TP1cadenasC
+# TP1 cadenas C
 Trabajo practico n1, cadena de caracteres para la carrera de Analista de Sistemas en ISET
 
 La empresa "TAN" requiere una aplicacion en C para cargar sus usuarios, la misma tendrá que:</br>
