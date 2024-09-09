@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1725835727 source:c:\users\nahuel\documents\proyectos\proc\practico caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"carga.h"
+	"muestra.h"
+
+1725838591 c:\users\nahuel\documents\proyectos\proc\practico caracteres\carga.h
+	<string.h>
+
+1725829507 c:\users\nahuel\documents\proyectos\proc\practico caracteres\muestra.h
+
